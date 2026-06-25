@@ -23,10 +23,6 @@ This repository contains my daily Java practice assignments.
 * Git
 * GitHub
 
-## Author
-
-Anjali
-
 ## Repository Status
 
-Daily updates and assignments are added regularly.
+Assignments are added regularly.
