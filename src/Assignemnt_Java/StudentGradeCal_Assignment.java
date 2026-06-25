@@ -6,15 +6,15 @@ public class StudentGradeCal_Assignment {
 
 	public static void main(String[] args) {
 		
-		Scanner  sc =new Scanner (System.in);
+		Scanner  sc =new Scanner (System.in); //create a object for scanning the user input values
 
 		
 		System.out.print("Enter Your Name :");
 		String name=sc.nextLine();
-		
+		// name entered from user , then store the value in name variable as string data type
 		System.out.print("Enter Your mark :");
 		int mark=sc.nextInt();
-		
+		// mark entered from user , then store the value in mark variable as integer data type
         
         if(mark>=90 && mark<=100)
         {
