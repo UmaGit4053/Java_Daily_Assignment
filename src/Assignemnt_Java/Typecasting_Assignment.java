@@ -4,7 +4,7 @@ public class Typecasting_Assignment {
 
 	public static void main(String[] args) {
 		
-		double value1= (double) 10.75f;
+		double value1= (double) 10.75;
 		int value2=(int) value1;
 		
 		System.out.println("The Value1:"+value1); //Widening Casting.
