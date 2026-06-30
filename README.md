@@ -8,6 +8,7 @@ This repository contains my daily Java practice assignments.
 * Data Types
 * Type Casting
 * Print Triangle
+* If-Else Statement
 
 ## Purpose
 
